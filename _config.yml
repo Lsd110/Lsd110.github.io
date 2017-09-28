@@ -8,7 +8,7 @@ welcome_message: <a href="https://github.com/Lsd110" target="_blank">關注科�
 
 creator: <a href="http://onev.cat">@onevcat</a>
 
-#url: "http://vno.onevcat.com"
+url: "https://lsd110.github.io/vno-jekyll/"
 
 permalink: /:year/:month/:title/
 
