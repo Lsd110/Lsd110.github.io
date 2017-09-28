@@ -1,11 +1,14 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Joan Rocky
+subtitle: 「人生只有一次，没有彩排」
+
+description: 嗨，我是Rocky，歡迎來到我的個人博客.
+
+welcome_message: <a href="https://github.com/Lsd110" target="_blank">關注科技與人文</a>
+
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+#url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
@@ -13,17 +16,17 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: 简历, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: 订阅, description: A button, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -32,16 +35,15 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: lsd_Fr
     # duoshuo: 
     
 # Social
 social:
     weibo: onevcat
-    github: onevcat
+    github: LSD110
     twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 1106752281@qq.com
 
 # Google Analytics
 ga:
