@@ -8,8 +8,6 @@ welcome_message: <a href="" target="_blank">关注 iOS ● 前端 技术</a>
 
 creator: <a href="http://onev.cat">@onevcat</a>
 
-#baseurl: "/vno-jekyll"
-
 url: "https://lsd110.github.io/vno-jekyll/"
 
 permalink: /:year/:month/:title/
