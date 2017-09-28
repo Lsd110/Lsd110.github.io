@@ -2,9 +2,9 @@
 title: Joan Rocky
 subtitle: 「人生只有一次，没有彩排」
 
-description: 嗨，我是Rocky，歡迎來到我的個人博客.
+description: 嗨，我是Rocky，一个编码四年的程序员，欢迎来到我的博客.
 
-welcome_message: <a href="https://github.com/Lsd110" target="_blank">關注科技與人文</a>
+welcome_message: <a href="" target="_blank">關注科技與人文</a>
 
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -42,9 +42,9 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
+    weibo: 5366995124
     github: LSD110
-    twitter: onevcat
+    twitter: rocky33509113
     mail: 1106752281@qq.com
 
 # Google Analytics
