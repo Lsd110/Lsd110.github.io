@@ -1,10 +1,10 @@
 # Basic
-title: Joan Rocky
+title: Rocky L
 subtitle: 「人生只有一次，没有彩排」
 
-description: 嗨，我是Rocky，一个编码四年的程序员，欢迎来到我的博客.
+description: 嗨，我是刘术东，一个编码四年的程序猿，欢迎来到我的博客.
 
-welcome_message: <a href="" target="_blank">關注科技與人文</a>
+welcome_message: <a href="" target="_blank">关注 iOS ● 前端 技术</a>
 
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -27,7 +27,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 简历, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 简历, description: My Projects, url: ''}
     # - {title: 订阅, description: A button, url: 'http://example.com'}
 
 # Pagination
